@@ -1,16 +1,20 @@
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)
+
 # KPI Forecasting Web Application
 
 A comprehensive web application designed for business analysts and non-technical users to forecast key performance indicators (KPIs) based on historical trends.
 
 ## Features
 
-- **Data Ingestion**: Upload Excel files (.xlsx or .xls) with historical KPI data
-- **Automated Data Preprocessing**: Intelligent handling of missing values and data cleaning
-- **Automated Model Selection**: Automatically selects and trains the most appropriate ML model
-- **Exploratory Data Analysis**: Interactive visualizations to understand your data
-- **Forecasting & Predictions**: Clear display of forecasted KPI values with visualizations
-- **Performance Metrics**: Model accuracy and performance indicators
-- **Export Functionality**: Download forecasts in Excel/CSV format
+- 📊 **Automated Model Selection**: ARIMA, Prophet, Linear Regression, Random Forest
+- 🎯 **User-Friendly Interface**: No coding required - just upload your data
+- 📈 **Interactive Visualizations**: Historical trends, forecasts, and performance metrics
+- 🔍 **Comprehensive Analytics**: Data quality assessment and model performance evaluation
+- 💾 **Export Ready**: Download forecasts as Excel or CSV files
+- 🚀 **Production Ready**: Deployed on Render with professional configuration
 
 ## Technology Stack
 
